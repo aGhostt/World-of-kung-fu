@@ -1188,7 +1188,6 @@ void __fastcall TMainForm1::Export1Click(TObject *Sender)
 //---------------------------------------------------------------------------
 void __fastcall TMainForm1::About1Click(TObject *Sender)
 {
-        MessageBox(Handle, "\t-=[ CPK Extractor ]=-\t\n\nCode: Tinyguy", "About", MB_OK|MB_ICONINFORMATION);
 }
 //---------------------------------------------------------------------------
 void __fastcall TMainForm1::ExportDiretory(char *Name)
